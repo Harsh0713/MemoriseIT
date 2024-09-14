@@ -98,7 +98,7 @@ function checkMatch(){
     } else {
       cards[optionOneId].setAttribute('src', 'images/blank.png')
       cards[optionTwoId].setAttribute('src', 'images/blank.png')
-      alert('Sorry, try again')
+      alert('Oops! The match is incorrect 😢')
     }
     cardsChosen = []
     cardsChosenId = []
