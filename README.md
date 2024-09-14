@@ -6,6 +6,15 @@ The game presents you with a grid of cards, each displaying an image when flippe
 Your goal is to find and match pairs of identical cards hidden within the grid. By flipping two cards at a time, you try to memorize their positions and match them. 
 The game rewards sharp memory, quick thinking, and attention to detail.
 
+## Some of the inbuild functions that we will use while coding:
+ for loops  <br>
+ addEventListener <br>
+ setAttribute  <br>
+ getAttribute  <br>
+ data-name  <br>
+ document.querySelector  <br>
+ createElement
+
 # How to Play:
 ### 1. Start the Game: <br> 
 Once the game begins, all cards are laid out face down on the screen.
