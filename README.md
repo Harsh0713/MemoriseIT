@@ -42,7 +42,7 @@ Run the code and you are good to go
 ![Screenshot 2024-09-14 181709](https://github.com/user-attachments/assets/27d03542-adb5-4643-a0c1-d8afa053e5bf)
 
 2. If the match is incorrect, an alert will appear for the wrong pair.
-![Screenshot 2024-09-14 181743](https://github.com/user-attachments/assets/f51b13c2-4195-48c2-b8ba-021a7c81605f)
+![Screenshot 2024-09-14 203853](https://github.com/user-attachments/assets/5cc8b70e-fb26-42ca-b16a-91ee3f2a1eeb)
 
 3. If you find the correct pair, also the alert will appear. 
 ![Screenshot 2024-09-14 181805](https://github.com/user-attachments/assets/f4eef029-4435-487d-88c4-ef14cb89b39c)
